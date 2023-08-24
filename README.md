@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sachin-veer
 - 👀 I’m interested in full-stack web development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ I’m looking to collaborate on web development career
 - 📫 How to reach me ...
 
 <!---
